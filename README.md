@@ -1,4 +1,4 @@
-# SimpleVuejsPaginator
+# Simple Vuejs Paginator
 
 Hello, This is a simple vue.js pagination component
 
