@@ -15,6 +15,8 @@ Hello, This is a simple vue.js pagination component
 	components :{
 		tobPaginator 
 	},
+	
+	data:{ Log : this.logitems}
 	```
 *	Usage
 	```
